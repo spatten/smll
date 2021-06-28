@@ -1,3 +1,3 @@
 # This is a test project
 
-and this is it's README
+and this is its README.
