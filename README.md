@@ -5,3 +5,5 @@ and this is its README.
 Another edit.
 
 And another
+
+Hello from scott@scottpatten.ca
