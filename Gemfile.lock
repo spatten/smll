@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    stylus-source (0.54.5)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  stylus-source (= 0.54.5)
+
+BUNDLED WITH
+   2.2.15
